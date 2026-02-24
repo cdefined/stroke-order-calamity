@@ -1,0 +1,15 @@
+{
+  "short_name": "Stroke Order",
+  "name": "Stroke Order Guide",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "white"
+}
